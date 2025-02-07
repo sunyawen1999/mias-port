@@ -15,7 +15,7 @@ const Protagonist = () => {
                                 src="/images/avatar.png"
                                 width={40}
                                 height={40}
-                                alt="Henry clark portrait"
+                                alt="Mia Sun portrait"
                                 className="img-cover"
                             />
                         </figure>
