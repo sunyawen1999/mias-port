@@ -1,4 +1,3 @@
-
 const socialLinks = [
     {
         href: 'https://github.com/sunyawen1999',
@@ -25,11 +24,11 @@ const Content = () => {
             <div className="container lg:grid lg:grid-cols-2 lg:items-stretch">
                 <div className="mb-12 lg:mb-0 lg:flex lg:flex-col">
                     <h2 className="headline-2 lg:max-w-[12ch] reveal-up">
-                        Contact me for collaboration
+                        Let's Build the Future Together—Start Today!
                     </h2>
 
                     <p className="text-zinc-400 mt-3 mb-8 max-w-[50ch] lg:max-w-[30ch] reveal-up">
-                        Reach out today to discuss your project needs and start collaborating on something amazing!
+                        Connect with me today to bring your project ideas to life and create something extraordinary!
                     </p>
 
                     <div className="flex items-center gap-2 mt-auto">
@@ -46,7 +45,7 @@ const Content = () => {
                     </div>
                 </div>
                 <form
-                    action="https://getform.io/"
+                    action="https://getform.io/f/bgddxena"
                     method="POST"
                     className="xl:pl-10 2xl:pl-20"
                 >

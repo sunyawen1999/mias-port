@@ -1,20 +1,10 @@
-/**
- * Node modules
- */
 import { ReactLenis } from 'lenis/react'
 import { gsap } from "gsap";
 import { ScrollTrigger } from "gsap/ScrollTrigger";
 import { useGSAP } from '@gsap/react';
 
-/**
- * Register gsap plugins
- */
 gsap.registerPlugin(useGSAP, ScrollTrigger);
 
-
-/**
- * Components
- */
 import Header from "./components/Header";
 import Protagonist from "./components/Protagonist"
 import About from "./components/About";

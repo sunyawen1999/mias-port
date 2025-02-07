@@ -29,12 +29,11 @@ const Protagonist = () => {
                     </div>
 
                     <h2 className="headline-1 max-w-[15ch] sm:max-w-[20ch] lg:max-w-[15ch] mt-5 mb-8 lg:mb-10">
-                        Building Scalable Modern Websites for the Future
+                        Crafting Tomorrow's Web Experiences Today
                     </h2>
 
-                    {/* يحتوي على زرين: زر لتحميل السيرة الذاتية وزر للتنقل لأسفل الصفحة. */}
                     <div className="flex items-center gap-3">
-                        <a href="#" target="_blank">
+                        <a href="/Mia_resume.pdf" download="Mia_Sun_Resume.pdf">
                             <ButtonPrimary
                                 label="Download CV"
                                 icon="download"
@@ -53,7 +52,7 @@ const Protagonist = () => {
                     <figure className="w-full max-w-[480px] ml-auto bg-gradient-to-t from-sky-400 via-25% via-sky-400/40 to-65% rounded-[60px] overflow-hidden">
                         <img
                             src="/images/avatar.png"
-                            width={656}
+                            width={400}
                             height={800}
                             alt="Mia Sun"
                             className="w-full"

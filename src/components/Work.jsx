@@ -1,6 +1,3 @@
-/**
- * Components
- */
 import ProjectCard from "./ProjectCard";
 
 const works = [
@@ -14,7 +11,13 @@ const works = [
         imgSrc: '/images/project-2.png',
         title: 'musiCore - Online Music Player',
         tags: ['Development', 'Deployment'],
-        projectLink: 'https://musicore.vercel.app//'
+        projectLink: 'https://musicore.vercel.app/'
+    },
+    {
+        imgSrc: '/images/project-3.png',
+        title: 'Plogging records website',
+        tags: ['uOttaHack7','Development'],
+        projectLink: 'plogging-web.vercel.app'
     },
 ];
 

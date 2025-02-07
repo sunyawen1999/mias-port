@@ -1,7 +1,4 @@
 /* eslint-disable react/prop-types */
-/**
- * Node modules
- */
 import PropTypes from "prop-types"
 
 const SkillCard = ({
