@@ -17,7 +17,7 @@ const works = [
         imgSrc: '/images/project-3.png',
         title: 'Plogging records website',
         tags: ['uOttaHack7','Development'],
-        projectLink: 'plogging-web.vercel.app'
+        projectLink: 'https://plogging-web.vercel.app/'
     },
 ];
 
